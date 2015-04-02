@@ -11,7 +11,7 @@ date_str = ""
 
 
 # Input file designation
-input_file = ".\mbostock_d3_commit_activity.txt"
+input_file = "mbostock_d3_commit_activity.txt"
 
 # Parse file to get list of data from json and find max commit date & count
 with open(input_file) as data_file:
